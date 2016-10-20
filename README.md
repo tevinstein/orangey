@@ -4,11 +4,11 @@ A small library that formats a number by adding commas to the numbers
 
 ## Installation
 
-  `npm install orangey`
+  `npm install @tevinstein/orangey`
 
 ## Usage
 
-    var numFormatter = require('orangey');
+    var numFormatter = require('@tevinstein/orangey');
 
     var formattedNum = numFormatter(12345678);
   
