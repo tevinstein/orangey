@@ -1,0 +1,26 @@
+{
+  "name": "orangey",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --reporter spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tevinstein/orangey.git"
+  },
+  "author": "tevin <tevinsa@yahoo.com> (www.github.com/tevinstein)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tevinstein/orangey/issues"
+  },
+  "engines": {
+    "node": ">=6.0.0"
+  },
+  "homepage": "https://github.com/tevinstein/orangey#readme",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.1.2"
+  }
+}
